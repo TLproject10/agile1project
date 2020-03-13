@@ -12,5 +12,9 @@ public class SeleniumLib
 	{
 		
 	}
+            
+               public void change()
+{
+}
 	
 }
